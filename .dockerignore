@@ -1,0 +1,11 @@
+.git
+.env
+.env.*
+storage
+node_modules
+dist
+outputs
+*.log
+*.sqlite*
+*.db
+*.zip

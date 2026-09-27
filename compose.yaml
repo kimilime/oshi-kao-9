@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    init: true
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8788:8788"
+    environment:
+      HOST: "0.0.0.0"
+      PORT: "8788"
+      DATA_DIR: "/app/storage"
+      PUBLIC_ORIGIN: "${PUBLIC_ORIGIN:-http://localhost:8788}"
+      TRUST_PROXY_HOPS: "${TRUST_PROXY_HOPS:-0}"
+    volumes:
+      - app-data:/app/storage
+volumes:
+  app-data:

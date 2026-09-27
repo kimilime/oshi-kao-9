@@ -1,0 +1,223 @@
+{
+  "demo": true,
+  "reviews_enabled": false,
+  "snapshot_version": "demo-v1",
+  "idols": [
+    {
+      "id": "demo-01",
+      "name": "示意成员 01",
+      "group": "示意团体 B",
+      "province": "浙江省",
+      "pic": "/images/demo/member-01.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-02",
+      "name": "示意成员 02",
+      "group": "示意团体 C",
+      "province": "浙江省",
+      "pic": "/images/demo/member-02.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-03",
+      "name": "示意成员 03",
+      "group": "示意团体 B",
+      "province": "福建省",
+      "pic": "/images/demo/member-03.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-04",
+      "name": "示意成员 04",
+      "group": "示意团体 A",
+      "province": "上海市",
+      "pic": "/images/demo/member-04.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-05",
+      "name": "示意成员 05",
+      "group": "示意团体 C",
+      "province": "浙江省",
+      "pic": "/images/demo/member-05.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-06",
+      "name": "示意成员 06",
+      "group": "示意团体 C",
+      "province": "福建省",
+      "pic": "/images/demo/member-06.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-07",
+      "name": "示意成员 07",
+      "group": "示意团体 C",
+      "province": "上海市",
+      "pic": "/images/demo/member-07.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-08",
+      "name": "示意成员 08",
+      "group": "示意团体 C",
+      "province": "福建省",
+      "pic": "/images/demo/member-08.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-09",
+      "name": "示意成员 09",
+      "group": "示意团体 A",
+      "province": "北京市",
+      "pic": "/images/demo/member-09.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-10",
+      "name": "示意成员 10",
+      "group": "示意团体 B",
+      "province": "福建省",
+      "pic": "/images/demo/member-10.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-11",
+      "name": "示意成员 11",
+      "group": "示意团体 C",
+      "province": "广东省",
+      "pic": "/images/demo/member-11.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-12",
+      "name": "示意成员 12",
+      "group": "示意团体 B",
+      "province": "浙江省",
+      "pic": "/images/demo/member-12.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-13",
+      "name": "示意成员 13",
+      "group": "示意团体 C",
+      "province": "北京市",
+      "pic": "/images/demo/member-13.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-14",
+      "name": "示意成员 14",
+      "group": "示意团体 C",
+      "province": "四川省",
+      "pic": "/images/demo/member-14.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-15",
+      "name": "示意成员 15",
+      "group": "示意团体 A",
+      "province": "浙江省",
+      "pic": "/images/demo/member-15.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-16",
+      "name": "示意成员 16",
+      "group": "示意团体 B",
+      "province": "上海市",
+      "pic": "/images/demo/member-16.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-17",
+      "name": "示意成员 17",
+      "group": "示意团体 C",
+      "province": "北京市",
+      "pic": "/images/demo/member-17.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-18",
+      "name": "示意成员 18",
+      "group": "示意团体 A",
+      "province": "广东省",
+      "pic": "/images/demo/member-18.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-19",
+      "name": "示意成员 19",
+      "group": "示意团体 A",
+      "province": "四川省",
+      "pic": "/images/demo/member-19.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-20",
+      "name": "示意成员 20",
+      "group": "示意团体 C",
+      "province": "福建省",
+      "pic": "/images/demo/member-20.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-21",
+      "name": "示意成员 21",
+      "group": "示意团体 A",
+      "province": "四川省",
+      "pic": "/images/demo/member-21.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-22",
+      "name": "示意成员 22",
+      "group": "示意团体 C",
+      "province": "北京市",
+      "pic": "/images/demo/member-22.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-23",
+      "name": "示意成员 23",
+      "group": "示意团体 A",
+      "province": "福建省",
+      "pic": "/images/demo/member-23.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-24",
+      "name": "示意成员 24",
+      "group": "示意团体 A",
+      "province": "四川省",
+      "pic": "/images/demo/member-24.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-25",
+      "name": "示意成员 25",
+      "group": "示意团体 C",
+      "province": "广东省",
+      "pic": "/images/demo/member-25.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-26",
+      "name": "示意成员 26",
+      "group": "示意团体 C",
+      "province": "四川省",
+      "pic": "/images/demo/member-26.svg",
+      "weibo_link": ""
+    },
+    {
+      "id": "demo-27",
+      "name": "示意成员 27",
+      "group": "示意团体 A",
+      "province": "广东省",
+      "pic": "/images/demo/member-27.svg",
+      "weibo_link": ""
+    }
+  ]
+}
